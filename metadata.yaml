@@ -1,5 +1,8 @@
 _repo: Martin-Eden_1056
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -23,6 +26,8 @@ description: "Martin Eden is a 1909 novel by American author Jack London about a
   \ in this book, was an attack on individualism (in the person of the hero). I must\
   \ have bungled, for not a single reviewer has discovered it.\"\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1056#Martin-Eden
 gutenberg_issued: '1997-09-01'
 gutenberg_type: Text
 identifiers:
